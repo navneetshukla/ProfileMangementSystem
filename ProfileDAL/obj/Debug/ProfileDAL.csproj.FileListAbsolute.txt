@@ -1,0 +1,6 @@
+F:\users\dell\source\repos\ProfileManagement\ProfileDAL\bin\Debug\ProfileDAL.dll
+F:\users\dell\source\repos\ProfileManagement\ProfileDAL\bin\Debug\ProfileDAL.pdb
+F:\users\dell\source\repos\ProfileManagement\ProfileDAL\obj\Debug\ProfileDAL.csprojResolveAssemblyReference.cache
+F:\users\dell\source\repos\ProfileManagement\ProfileDAL\obj\Debug\ProfileDAL.csproj.CoreCompileInputs.cache
+F:\users\dell\source\repos\ProfileManagement\ProfileDAL\obj\Debug\ProfileDAL.dll
+F:\users\dell\source\repos\ProfileManagement\ProfileDAL\obj\Debug\ProfileDAL.pdb
