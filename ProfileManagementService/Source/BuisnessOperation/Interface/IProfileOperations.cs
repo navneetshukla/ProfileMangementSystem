@@ -8,6 +8,12 @@ namespace ProfileManagementService.Source
 {
 	public interface IProfileOperations 
 	{
+		List<UserDetailsBO> GetUserDetails(int userId);
+		
+		void SaveUserDetails(UserDetailsBO userDetails);
+
+		void DeleteUserDetails(int userId );
+
 
 	}
 }

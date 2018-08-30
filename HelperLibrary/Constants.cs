@@ -8,6 +8,6 @@ namespace HelperLibrary
 {
 	public static class Constants
 	{
-
+		public const string ProfileApiUrl = "http://localhost/api/ProfileManagementService/";
 	}
 }

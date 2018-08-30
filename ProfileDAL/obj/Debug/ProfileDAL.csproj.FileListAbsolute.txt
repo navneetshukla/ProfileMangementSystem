@@ -4,3 +4,15 @@ F:\users\dell\source\repos\ProfileManagement\ProfileDAL\obj\Debug\ProfileDAL.csp
 F:\users\dell\source\repos\ProfileManagement\ProfileDAL\obj\Debug\ProfileDAL.csproj.CoreCompileInputs.cache
 F:\users\dell\source\repos\ProfileManagement\ProfileDAL\obj\Debug\ProfileDAL.dll
 F:\users\dell\source\repos\ProfileManagement\ProfileDAL\obj\Debug\ProfileDAL.pdb
+F:\users\dell\source\ProfileMangementSystem\ProfileDAL\bin\Debug\ProfileDAL.dll.config
+F:\users\dell\source\ProfileMangementSystem\ProfileDAL\bin\Debug\ProfileDAL.dll
+F:\users\dell\source\ProfileMangementSystem\ProfileDAL\bin\Debug\ProfileDAL.pdb
+F:\users\dell\source\ProfileMangementSystem\ProfileDAL\bin\Debug\EntityFramework.dll
+F:\users\dell\source\ProfileMangementSystem\ProfileDAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\users\dell\source\ProfileMangementSystem\ProfileDAL\bin\Debug\EntityFramework.xml
+F:\users\dell\source\ProfileMangementSystem\ProfileDAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\users\dell\source\ProfileMangementSystem\ProfileDAL\obj\Debug\ProfileDAL.csprojResolveAssemblyReference.cache
+F:\users\dell\source\ProfileMangementSystem\ProfileDAL\obj\Debug\ProfileDAL.csproj.CoreCompileInputs.cache
+F:\users\dell\source\ProfileMangementSystem\ProfileDAL\obj\Debug\ProfileDAL.csproj.CopyComplete
+F:\users\dell\source\ProfileMangementSystem\ProfileDAL\obj\Debug\ProfileDAL.dll
+F:\users\dell\source\ProfileMangementSystem\ProfileDAL\obj\Debug\ProfileDAL.pdb

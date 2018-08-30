@@ -15,9 +15,19 @@ namespace ProfileManagementService.Source
 			_profileOperations = profileOperations;
 		}
 
-		public string Test()
+		public List<UserDetailsBO> GetUserDetails(int userId)
 		{
-			return string.Empty;
+			return _profileOperations.GetUserDetails(userId);
+		}
+
+		public void SaveUserDetails(UserDetailsBO userDetails)
+		{
+			 _profileOperations.SaveUserDetails(userDetails);
+		}
+
+		public void DeleteUserDetails(int userId)
+		{
+			 _profileOperations.DeleteUserDetails(userId);
 		}
 	}
 }
